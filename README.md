@@ -1,2 +1,2 @@
-# comp-auto-compelete-cox
-auto compelete cox with pure html css js
+# comp-auto-compelete-box
+auto compelete box with pure html css js
